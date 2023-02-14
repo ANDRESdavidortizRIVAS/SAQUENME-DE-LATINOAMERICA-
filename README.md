@@ -1,6 +1,4 @@
-# SAQUENME-DE-LATINOAMERICA-
-
-******RETO*** 2***
+# RETO no. 2
 
 Hello…. it´s me... 
 
