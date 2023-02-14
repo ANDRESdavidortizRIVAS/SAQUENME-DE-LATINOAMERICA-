@@ -1,5 +1,7 @@
 # ANDRESdavidortizRIVAS-ANDRESdavidortizRIVAS_SAQUENME-DE-LATINOAMERICA-
-RETO 2
+
+******RETO*** 2***
+
 Hello…. it´s me... 
 
 Buen día, en este repositorio explico cómo hacer el "Reto no. 2" de la clase.   :) 
