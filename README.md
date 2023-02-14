@@ -11,6 +11,8 @@ El reto 2 cosiste en ejecutar un Código "Hola mundo" en:
                ° En VSCode.
                
 1.	Primeramente, nos dirigimos a bloc de notas y escribimos (o pegamos) el siguiente código:
+
+
 if __name__ == "__main__”:     
 print("Hola mundo")                   
 
